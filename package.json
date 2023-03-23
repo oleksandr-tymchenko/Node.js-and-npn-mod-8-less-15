@@ -1,0 +1,31 @@
+{
+  "name": "node.js-and-npn-mod-8-less-15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleksandr-tymchenko/Node.js-and-npn-mod-8-less-15.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleksandr-tymchenko/Node.js-and-npn-mod-8-less-15/issues"
+  },
+  "homepage": "https://github.com/oleksandr-tymchenko/Node.js-and-npn-mod-8-less-15#readme",
+  "dependencies": {
+  
+    "joi": "^17.9.1",
+    "nanoid": "^4.0.1"
+  },
+  "devDependencies": {
+   
+    "parcel": "^2.8.3"
+  }
+}
